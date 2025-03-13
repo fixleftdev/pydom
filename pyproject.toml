@@ -1,4 +1,3 @@
-
 [tool.commitizen]
 version_type = "semver"
 name = "cz_conventional_commits"
